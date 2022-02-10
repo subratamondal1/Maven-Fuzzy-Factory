@@ -10,8 +10,8 @@ ___
 `The Objective :` 
 #### Use SQL to :
 ```
-- Access and explore the Maven Fuzzy Factory database.
-- Become the data expert for the company, and the go-to person for mission critical analyses.
-- Analyze and optimize the business, marketing channels, website and product portfolio.
+-> Access and explore the Maven Fuzzy Factory database.
+-> Become the data expert for the company, and the go-to person for mission critical analyses.
+-> Analyze and optimize the business, marketing channels, website and product portfolio.
 ```
 ___
