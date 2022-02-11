@@ -15,3 +15,24 @@ ___
 -> Analyze and optimize the business, marketing channels, website and product portfolio.
 ```
 ___
+`Solution :` 
+#### Traffic Source Analysis :
+- is about understanding ***where our customers are coming from and which channels are driving the highest quality traffic***.
+``` 
+Common Use Cases :
+  -> Analyzing search data and shifting budget towards the engines, campaigns or keywords that driving the strongest conversion (to sales) rates.
+  -> Comparing user behaviour patterns across traffic sources to inform creative and messaging strategy.
+  -> Identifying opportunities to eliminate Wasted Money/Time Spent or Scale High-Converting Traffic.
+```
+> Key Tables : Website Sessions, Page Views & Orders.
+
+
+>Website Sessions : SELECT * FROM website_sessions WHERE website_session_id = 1059
+<img width="1211" alt="1" src="https://user-images.githubusercontent.com/60319087/153548916-92f76426-583a-447c-98aa-8adf6f56243a.png">
+
+>Page Views :       SELECT * FROM website_pageviews WHERE website_session_id = 1059
+<img width="1214" alt="2" src="https://user-images.githubusercontent.com/60319087/153548171-d512f6ff-cd96-4f62-af38-5b9436485594.png">
+
+>Orders :           SELECT * FROM orders WHERE website_session_id = 1048
+
+> UTM ( Urchin Tracking Module ) : UTM codes are added to the end of regular URL's and are designed to tell Google Analytics (and other analytics tools) a little bit more information about each link and which marketing campaign it relates to.
