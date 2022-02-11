@@ -34,5 +34,10 @@ Common Use Cases :
 <img width="1214" alt="2" src="https://user-images.githubusercontent.com/60319087/153548171-d512f6ff-cd96-4f62-af38-5b9436485594.png">
 
 >Orders :           SELECT * FROM orders WHERE website_session_id = 1048
+<img width="1212" alt="3" src="https://user-images.githubusercontent.com/60319087/153573330-cb620dae-9779-4313-98b4-85c6c8d6e45e.png">
 
 > UTM ( Urchin Tracking Module ) : UTM codes are added to the end of regular URL's and are designed to tell Google Analytics (and other analytics tools) a little bit more information about each link and which marketing campaign it relates to.
+
+***Now I am going to***
+- Use UTM parameters stored in the database to identify paid website sessions.
+- And from our session data we can link to our data to understand how much revenue our paid campaigns are driving.
